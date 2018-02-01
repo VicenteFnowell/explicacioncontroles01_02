@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">explicacioncontroles01_02</string>
+    <string name="texto_boton">ACEPTAR</string>
+    <string name="texto_boton_cancelar">CANCELAR</string>
+</resources>
